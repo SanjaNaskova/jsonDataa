@@ -3,10 +3,9 @@
 		{
 			"name": "Зегин",
 			"location": {
-				"address": "Булевар Видое Смилевски Бато 2а лок.5, Скопје 1000",			
+				"address": "Булевар Видое Смилевски Бато 2а лок.5, Скопје 1000",	"naselba" : "Ново Лисиче",	
 				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
-			},
-			"naselba" : "Ново Лисиче",
+			},			
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -37,10 +36,10 @@
 		{
 			"name": "Еурофарм Веро Центар",
 			"location": {
-				"address": "Kuzman Josifovski Pitu 64/1, Skopje 1000",				
+				"address": "Kuzman Josifovski Pitu 64/1, Skopje 1000",
+				"naselba" : "Центар",				
 				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
-			},
-			"naselba" : "Центар",
+			},			
 			"items": [{
 					"name": "Amoxicillin",
 					"type": "Anitbiotic",
@@ -71,9 +70,9 @@
 			"name": "Еурофарм",
 			"location": {
 				"address": "Булевар Кочо Рацин бр.180, Скопје 1000",
+				"naselba" : "Центар",
 				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
-			},
-			"naselba" : "Центар",
+			},			
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -104,10 +103,10 @@
 		{
 			"name": "Виола",
 			"location": {
-				"address": "Булевар Јане Сандански бр.58, Скопје 1000",				
+				"address": "Булевар Јане Сандански бр.58, Скопје 1000",	
+				"naselba" : "Аеродром",			
 				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
-			},
-			"naselba" : "Аеродром",
+			},			
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -138,10 +137,10 @@
 		{
 			"name": "Виола",
 			"location": {
-				"address": "Булевар Партизански Одреди бр.28, Скопје 1000",				
+				"address": "Булевар Партизански Одреди бр.28, Скопје 1000",	
+				"naselba" : "Карпош 3",			
 				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
-			},
-			"naselba" : "Карпош 3",
+			},			
 			"items": [
 				{
 					"name": "Amoxicillin",
