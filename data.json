@@ -1,0 +1,377 @@
+{
+	"pharmacies": [
+		{
+			"name": "Зегин",
+			"location": {
+				"address": "Булевар Видое Смилевски Бато 2а лок.5, Скопје 1000",			
+				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
+			},
+			"naselba" : "Ново Лисиче",
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 127.0,
+					"stock": 100
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 98.0,
+					"stock": 10
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 130.0,
+					"stock": 0
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 70.0,
+					"stock": 0
+				}
+			]
+		},
+		{
+			"name": "Еурофарм Веро Центар",
+			"location": {
+				"address": "Kuzman Josifovski Pitu 64/1, Skopje 1000",				
+				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
+			},
+			"naselba" : "Центар",
+			"items": [{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 125.0,
+					"stock": 10
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 95.0,
+					"stock": 0
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 128.0,
+					"stock": 120
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 67.0,
+					"stock": 20
+				}
+			]
+		},
+		{
+			"name": "Еурофарм",
+			"location": {
+				"address": "Булевар Кочо Рацин бр.180, Скопје 1000",
+				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
+			},
+			"naselba" : "Центар",
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 125.0,
+					"stock": 0
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 95.0,
+					"stock": 15
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 128.0,
+					"stock": 50
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 67.0,
+					"stock": 0
+				}
+			]
+		},
+		{
+			"name": "Виола",
+			"location": {
+				"address": "Булевар Јане Сандански бр.58, Скопје 1000",				
+				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
+			},
+			"naselba" : "Аеродром",
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 123.0,
+					"stock": 15
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 93.0,
+					"stock": 17
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 125.0,
+					"stock": 10
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 65.0,
+					"stock": 80
+				}
+			]
+		},
+		{
+			"name": "Виола",
+			"location": {
+				"address": "Булевар Партизански Одреди бр.28, Скопје 1000",				
+				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
+			},
+			"naselba" : "Карпош 3",
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 123.0,
+					"stock": 15
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 93.0,
+					"stock": 22
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 125.0,
+					"stock": 28
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 65.0,
+					"stock": 0
+				}
+			]
+		},
+		{
+			"name": "Виола",
+			"location": {
+				"address": "Димитрија Чуповски 20а, Скопје 1000",
+				"naselba" : "Центар",
+				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
+			},
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 123.0,
+					"stock": 80
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 93.0,
+					"stock": 30
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 125.0,
+					"stock": 50
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 65.0,
+					"stock": 10
+				}
+			]
+		},
+		{
+			"name": "Зегин",
+			"location": {
+				"address": "Булевар Асном бр.180, Скопје 1000",
+				"naselba" : "Ново Лисиче",
+				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
+			},
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 127.0,
+					"stock": 9
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 98.0,
+					"stock": 90
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 130.0,
+					"stock": 0
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 70.0,
+					"stock": 45
+				}
+			]
+		}, 
+		{
+			"name": "Зегин",
+			"location": {
+				"address": "Булевар Јане Сандански 87/2, Скопје 1000",
+				"naselba" : "Аеродром",
+				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
+			},
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 127.0,
+					"stock": 87
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 98.0,
+					"stock": 0
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 130.0,
+					"stock": 30
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 70.0,
+					"stock": 80
+				}
+			]
+		},
+		{
+			"name": "Еурофарм",
+			"location": {
+				"address": "Булевар Јане Сандански 109/2, Скопје 1000",
+				"naselba" : "Аеродром",
+				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
+			},
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 125.0,
+					"stock": 0
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 95.0,
+					"stock": 20
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 128.0,
+					"stock": 0
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 67.0,
+					"stock": 0
+				}
+			]
+		},
+		{
+			"name": "Виола",
+			"location": {
+				"address": "Февруарски Поход 64, Скопје 1000",
+				"naselba" : "Ново Лисиче",
+				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
+			},
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 123.0,
+					"stock": 5
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 93.0,
+					"stock": 18
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 125.0,
+					"stock": 0
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 65.0,
+					"stock": 18
+				}
+			]
+		},
+		{
+			"name": "Зегин",
+			"location": {
+				"address": "Булевар Партизански Одреди 68а, Скопје 1000",
+				"naselba" : "Карпош 3",
+				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
+			},
+			"items": [
+				{
+					"name": "Amoxicillin",
+					"type": "Anitbiotic",
+					"price": 127.0,
+					"stock": 80
+				},
+				{
+					"name": "Doxycycline",
+					"type": "Anitbiotic",
+					"price": 98.0,
+					"stock": 0
+				},
+				{
+					"name": "Cephalexin",
+					"type": "Anitbiotic",
+					"price": 130.0,
+					"stock": 0
+				},
+				{
+					"name": "Analgin",
+					"type": "Analgetic",
+					"price": 70.0,
+					"stock": 0
+				}
+			]
+		}
+	]
+}
