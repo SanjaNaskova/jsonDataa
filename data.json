@@ -3,9 +3,11 @@
 		{
 			"name": "Зегин",
 			"location": {
-				"address": "Булевар Видое Смилевски Бато 2а лок.5, Скопје 1000",	"naselba" : "Ново Лисиче",	
+				"address": "Булевар Видое Смилевски Бато 2а лок.5, Скопје 1000",
+				"naselba" : "Ново Лисиче",	
 				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
-			},			
+			},	
+			"map": "src=\"https://maps.google.com/maps?q=boulevar%20vidoe%20smilevski%20bato%202a%2C%201000%20skopje&t=&z=13&ie=UTF8&iwloc=&",	
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -39,7 +41,8 @@
 				"address": "Kuzman Josifovski Pitu 64/1, Skopje 1000",
 				"naselba" : "Центар",				
 				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
-			},			
+			},	
+			"map":"<div class=`mapouter`><div class=`gmap_canvas`><iframe width=`600` height=`500` id=`gmap_canvas` src=`https://maps.google.com/maps?q=boulevar%20vidoe%20smilevski%20bato%202a%2C%201000%20skopje&t=&z=13&ie=UTF8&iwloc=&output=embed` frameborder=`0` scrolling=`no` marginheight=`0` marginwidth=`0`></iframe><a href=`https://www.pureblack.de`>Pureblack.de - Webseite erstellen lassen</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>",		
 			"items": [{
 					"name": "Amoxicillin",
 					"type": "Anitbiotic",
@@ -72,7 +75,8 @@
 				"address": "Булевар Кочо Рацин бр.180, Скопје 1000",
 				"naselba" : "Центар",
 				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
-			},			
+			},	
+			"map":"<div class=\"mapouter\"><div class=\"gmap_canvas\"><iframe width=\"600\" height=\"500\"id=\"gmap_canvas\" src=\"https://maps.google.com/maps?q=boulevar%20kocho%20racin%20180%2C%201000%20skopje&t=&z=13&ie=UTF8&iwloc=&output=embed\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe><a href=\"https://www.pureblack.de\">Pureblack.de - Webseite erstellen lassen</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>",		
 			"items": [
 				{
 					"name": "Amoxicillin",
