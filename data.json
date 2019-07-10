@@ -42,7 +42,7 @@
 				"naselba" : "Центар",				
 				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
 			},	
-			"map":"<div class=`mapouter`><div class=`gmap_canvas`><iframe width=`600` height=`500` id=`gmap_canvas` src=`https://maps.google.com/maps?q=boulevar%20vidoe%20smilevski%20bato%202a%2C%201000%20skopje&t=&z=13&ie=UTF8&iwloc=&output=embed` frameborder=`0` scrolling=`no` marginheight=`0` marginwidth=`0`></iframe><a href=`https://www.pureblack.de`>Pureblack.de - Webseite erstellen lassen</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>",		
+			"map":"https://maps.google.com/maps?q=Kuzman%20Josifovski%20Pitu%2064%2F1%2C%20Skopje%201000&t=&z=13&ie=UTF8&iwloc=&output=embed",		
 			"items": [{
 					"name": "Amoxicillin",
 					"type": "Anitbiotic",
@@ -76,7 +76,7 @@
 				"naselba" : "Центар",
 				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
 			},	
-			"map":"<div class=\"mapouter\"><div class=\"gmap_canvas\"><iframe width=\"600\" height=\"500\"id=\"gmap_canvas\" src=\"https://maps.google.com/maps?q=boulevar%20kocho%20racin%20180%2C%201000%20skopje&t=&z=13&ie=UTF8&iwloc=&output=embed\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe><a href=\"https://www.pureblack.de\">Pureblack.de - Webseite erstellen lassen</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>",		
+			"map":"https://maps.google.com/maps?q=bulevar%20kocho%20racin%20180&t=&z=15&ie=UTF8&iwloc=&output=embed",		
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -110,7 +110,8 @@
 				"address": "Булевар Јане Сандански бр.58, Скопје 1000",	
 				"naselba" : "Аеродром",			
 				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
-			},			
+			},	
+			"map": "https://maps.google.com/maps?q=bulevar%20jane%20sandanski%20br%2058&t=&z=15&ie=UTF8&iwloc=&output=embed",		
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -144,7 +145,8 @@
 				"address": "Булевар Партизански Одреди бр.28, Скопје 1000",	
 				"naselba" : "Карпош 3",			
 				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
-			},			
+			},	
+			"map": "https://maps.google.com/maps?q=bulevar%20partizanski%20odredi%20br%2028&t=&z=15&ie=UTF8&iwloc=&output=embed",		
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -179,6 +181,7 @@
 				"naselba" : "Центар",
 				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
 			},
+			"map":"https://maps.google.com/maps?q=dimitrija%20chupovski%2020a%2C%201000%20skopje&t=&z=15&ie=UTF8&iwloc=&output=embed",
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -209,10 +212,11 @@
 		{
 			"name": "Зегин",
 			"location": {
-				"address": "Булевар Асном бр.180, Скопје 1000",
+				"address": "Булевар Асном бр.64, Скопје 1000",
 				"naselba" : "Ново Лисиче",
 				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
 			},
+			"map":"https://maps.google.com/maps?q=boulevar%20asnom%2064&t=&z=15&ie=UTF8&iwloc=&output=embed",
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -247,6 +251,7 @@
 				"naselba" : "Аеродром",
 				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
 			},
+			"map":"https://maps.google.com/maps?q=boulevar%20jane%20sandanski%2087%2F2&t=&z=15&ie=UTF8&iwloc=&output=embed",
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -281,6 +286,7 @@
 				"naselba" : "Аеродром",
 				"slika": "https://24info.mk/wp-content/uploads/2019/03/eurofarm-640x360.png"
 			},
+			"map":"https://maps.google.com/maps?q=boulevar%20jane%20sandanski%20109%2F2&t=&z=15&ie=UTF8&iwloc=&output=embed",
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -311,10 +317,11 @@
 		{
 			"name": "Виола",
 			"location": {
-				"address": "Февруарски Поход 64, Скопје 1000",
+				"address": "Февруарски Поход 80, Скопје 1000",
 				"naselba" : "Ново Лисиче",
 				"slika": "https://1050864291.rsc.cdn77.org/sites/zk/docs/trans%7Bmk%7Dlogo_1435129482_21.jpg"
 			},
+			"map": "https://maps.google.com/maps?q=fevruarski%20pohod%2080&t=&z=15&ie=UTF8&iwloc=&output=embed",
 			"items": [
 				{
 					"name": "Amoxicillin",
@@ -349,6 +356,7 @@
 				"naselba" : "Карпош 3",
 				"slika": "https://s3.amazonaws.com/wipo-tm/1245507.jpg"
 			},
+			"map":"https://maps.google.com/maps?q=partizanski%20odredi%2068a&t=&z=15&ie=UTF8&iwloc=&output=embed",
 			"items": [
 				{
 					"name": "Amoxicillin",
